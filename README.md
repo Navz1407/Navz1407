@@ -2,4 +2,4 @@
   
 - 👀 I’m interested in Web dev, ML and UI/UX dev
   
-- 🌱 I’m currently learning Python and C
+- 🌱 I’m currently learning Python, C and JAVA!
